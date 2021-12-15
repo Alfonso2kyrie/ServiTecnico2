@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "799222733183",
+    "project_id": "servi2-5b353",
+    "storage_bucket": "servi2-5b353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799222733183:android:f4bd30a9a501c6855ce24a",
+        "android_client_info": {
+          "package_name": "com.alfonsomaldonado.servi2tecnico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799222733183-5jb6vd8b596hp6nal5vp3ag6uta7lhp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbTHZX5cW0BdDBraqZK16kiCv7FQ7eMDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799222733183-5jb6vd8b596hp6nal5vp3ag6uta7lhp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799222733183:android:5ffa885b32c5c66c5ce24a",
+        "android_client_info": {
+          "package_name": "com.example.servi2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799222733183-5jb6vd8b596hp6nal5vp3ag6uta7lhp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbTHZX5cW0BdDBraqZK16kiCv7FQ7eMDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799222733183-5jb6vd8b596hp6nal5vp3ag6uta7lhp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
